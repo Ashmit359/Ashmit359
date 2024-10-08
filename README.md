@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sinha359" target="blank"><img src="https://img.shields.io/twitter/follow/sinha359?logo=twitter&style=for-the-badge" alt="sinha359" /></a> </p>
 
-- 🔭 I’m currently working on **Online Code Editor**
+- 🔭 I’m currently working on **AWS Cloud Practitioner Exam**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Solutions Architect**
 
 - 👯 I’m looking to collaborate on **my Website**
 
